@@ -5,11 +5,13 @@
     "diagram": "OSLO-Issue-Tracking-Voor-Burgers-En-Organisaties",
     "template": "issue-tracking-voor-burgers-en-organisaties-ap.j2",
     "title": "Issue Tracking voor Burgers en Organisaties",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "07-02-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Melding",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton";
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   }
 ]
